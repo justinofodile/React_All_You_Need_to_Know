@@ -1,0 +1,14 @@
+body {
+  /* margin: auto; */
+  box-sizing: border-box;
+}
+p {
+  font-size: 40px;
+  color: red;
+  background-color: yellow;
+}
+
+.container {
+  border: 1px solid black;
+  background-color: skyblue;
+}
